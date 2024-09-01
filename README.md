@@ -124,13 +124,13 @@ For building relationship between tables, i have created _**dim_state**_ and _**
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: left;">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_charging_station_table_view.png" alt="Charging Station Table View" style="max-width: 70%;">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_charging_station_table_view.png" alt="Charging Station Table View" style="max-width: 100px;">
   </div>
   <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/dim_state_table_view.png" alt="State Table View" style="max-width: 70%;">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/dim_state_table_view.png" alt="State Table View" style="max-width: 100px;">
   </div>
   <div style="text-align: right;">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/category_table_view.png" alt="Category Table View" style="max-width: 70%;">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/category_table_view.png" alt="Category Table View" style="max-width: 100px;">
   </div>
 </div>
 
@@ -212,7 +212,7 @@ Where:
 
 ## Insights and Recommendations: 
 
-### Preliminary Question
+<p align="center"> Preliminary Question </p>
 
 1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
 
@@ -292,44 +292,56 @@ Where:
   <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Insights/PQ10.png">
 </p>
 
-### Secondary Research Questions:
+<p align="center"> Secondary Research Questions </p>
 
-1. What are the primary reasons for customers choosing 4-wheeler EVs in 2023 and 2024?
+#### 1. What are the primary reasons for customers choosing 4-wheeler EVs in 2023 and 2024?
 
-Here’s an overview of why customers in India are increasingly choosing 4-wheeler EVs in 2023 and 2024, tailored to the Indian context:
+   - **Environmental Concerns**
 
-### 1. **Environmental Concerns**
-   - **Pollution in Urban Areas:** Major cities in India, such as Delhi, Mumbai, and Bengaluru, face severe air pollution problems. Consumers are becoming more aware of the impact of vehicular emissions on air quality and climate change. This has led to a rising preference for EVs, which contribute to cleaner air by reducing local pollutants.
-   - **Government Push for Clean Energy:** The Indian government’s focus on renewable energy sources, such as solar and wind, aligns with the push for EV adoption, as more people look to reduce their dependency on fossil fuels.
+      - _**Pollution in Urban Areas:**_ Major cities in India, such as Delhi, Mumbai, and Bengaluru, face severe air pollution problems. Consumers are becoming more aware of the impact of vehicular emissions on air quality and climate change. This has led to a rising preference for EVs, which contribute to cleaner air by reducing local pollutants.
 
-### 2. **Cost Savings**
-   - **Lower Running Costs:** Electricity in India is significantly cheaper than petrol or diesel, making EVs more economical for daily commuting. As fuel prices fluctuate and often remain high, the stable and lower cost of electricity is a big draw for Indian consumers.
-   - **Maintenance Advantages:** With fewer mechanical parts, the cost of maintaining EVs is lower in India compared to traditional internal combustion engine vehicles. This is particularly appealing in cities where traffic conditions can lead to more frequent vehicle repairs.
-   - **Savings from Subsidies:** The central and state governments offer various incentives like reduced GST rates, subsidies on EV purchases, and tax benefits, making EV ownership more affordable for the average consumer.
+      - _**Government Push for Clean Energy:**_ The Indian government’s focus on renewable energy sources, such as solar and wind, aligns with the push for EV adoption, as more people look to reduce their dependency on fossil fuels.
 
-### 3. **Government Incentives**
-   - **FAME II Scheme (Faster Adoption and Manufacturing of Hybrid and Electric Vehicles):** The FAME II scheme offers subsidies to promote the adoption of electric vehicles in India. Under this initiative, customers receive financial incentives, making the upfront cost of EVs more competitive with traditional vehicles.
-   - **State-Level Incentives:** States like Delhi, Maharashtra, Gujarat, and Tamil Nadu have additional incentives, such as reduced road taxes, registration fee waivers, and direct purchase subsidies. These benefits make EVs a more attractive option in those regions.
-   - **Incentives for Charging Infrastructure:** Alongside vehicle incentives, the government is supporting the expansion of charging infrastructure, making it easier for Indian consumers to transition to EVs without range anxiety.
+   - **Cost Savings**
 
-### 4. **Technological Advancements**
-   - **Affordable Battery Technology:** In India, the price of lithium-ion batteries has steadily decreased, which directly reduces the cost of EVs. This affordability is critical for attracting the price-sensitive Indian market.
-   - **Expanding Charging Network:** The Indian government and private companies are working together to increase the availability of EV charging stations, particularly in urban areas and along highways, making EV ownership more convenient.
-   - **Smart Features and Connectivity:** Indian consumers, especially in metropolitan areas, are drawn to the advanced features of EVs, such as internet connectivity, app-based vehicle control, and real-time vehicle monitoring. These features cater to the tech-savvy, younger demographic.
+      - _**Lower Running Costs:**_ Electricity in India is significantly cheaper than petrol or diesel, making EVs more economical for daily commuting. As fuel prices fluctuate and often remain high, the stable and lower cost of electricity is a big draw for Indian consumers.
 
-### 5. **Variety and Availability of EV Models**
-   - **Growing Model Options:** Indian consumers now have access to a wider range of EV models, including budget-friendly options like Tata Nexon EV, MG ZS EV, and Mahindra XUV400. As automakers introduce more models catering to different price segments, consumers are finding EVs that suit their needs and budgets.
-   - **Local Manufacturing and Assembly:** Many global and Indian automakers are investing in local production and assembly of EVs in India, reducing costs and boosting availability. Companies like Tata Motors and Mahindra are leading the charge, making EVs more accessible to the Indian market.
-   - **Partnerships and Collaborations:** Collaborations between automakers and tech firms are enhancing the variety of EVs available. These partnerships bring in new innovations, such as faster charging and better range, helping to cater to the specific demands of Indian consumers.
+      - _**Maintenance Advantages:**_ With fewer mechanical parts, the cost of maintaining EVs is lower in India compared to traditional internal combustion engine vehicles. This is particularly appealing in cities where traffic conditions can lead to more frequent vehicle repairs.
+
+      - _**Savings from Subsidies:**_ The central and state governments offer various incentives like reduced GST rates, subsidies on EV purchases, and tax benefits, making EV ownership more affordable for the average consumer.
+
+   - **Government Incentives**
+
+      - _**FAME II Scheme (Faster Adoption and Manufacturing of Hybrid and Electric Vehicles):**_ The FAME II scheme offers subsidies to promote the adoption of electric vehicles in India. Under this initiative, customers receive financial incentives, making the upfront cost of EVs more competitive with traditional vehicles.
+
+      - _**State-Level Incentives:**_ States like Delhi, Maharashtra, Gujarat, and Tamil Nadu have additional incentives, such as reduced road taxes, registration fee waivers, and direct purchase subsidies. These benefits make EVs a more attractive option in those regions.
+
+      - _**Incentives for Charging Infrastructure:**_ Alongside vehicle incentives, the government is supporting the expansion of charging infrastructure, making it easier for Indian consumers to transition to EVs without range anxiety.
+
+   - **Technological Advancements**
+
+      - _**Affordable Battery Technology:**_ In India, the price of lithium-ion batteries has steadily decreased, which directly reduces the cost of EVs. This affordability is critical for attracting the price-sensitive Indian market.
+
+      - _**Expanding Charging Network:**_ The Indian government and private companies are working together to increase the availability of EV charging stations, particularly in urban areas and along highways, making EV ownership more convenient.
+
+      - _**Smart Features and Connectivity:**_ Indian consumers, especially in metropolitan areas, are drawn to the advanced features of EVs, such as internet connectivity, app-based vehicle control, and real-time vehicle monitoring. These features cater to the tech-savvy, younger demographic.
+
+   - **Variety and Availability of EV Models**
+
+      - _**Growing Model Options:**_ Indian consumers now have access to a wider range of EV models, including budget-friendly options like Tata Nexon EV, MG ZS EV, and Mahindra XUV400. As automakers introduce more models catering to different price segments, consumers are finding EVs that suit their needs and budgets.
+
+      - _**Local Manufacturing and Assembly:**_ Many global and Indian automakers are investing in local production and assembly of EVs in India, reducing costs and boosting availability. Companies like Tata Motors and Mahindra are leading the charge, making EVs more accessible to the Indian market.
+
+      - _**Partnerships and Collaborations:**_ Collaborations between automakers and tech firms are enhancing the variety of EVs available. These partnerships bring in new innovations, such as faster charging and better range, helping to cater to the specific demands of Indian consumers.
 
 
-2. How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided most subsidies?
+#### 2. How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided most subsidies?
 
-Government incentives and subsidies have significantly boosted the adoption of both 2-wheelers and 4-wheelers in India's EV market. The FAME II scheme offers substantial subsidies, covering up to 40% of 2-wheeler costs and up to ₹1.5 lakh for 4-wheelers, driving sales growth.
+&rarr; Government incentives and subsidies have significantly boosted the adoption of both 2-wheelers and 4-wheelers in India's EV market. The FAME II scheme offers substantial subsidies, covering up to 40% of 2-wheeler costs and up to ₹1.5 lakh for 4-wheelers, driving sales growth.
 
-2-Wheelers: Affordable and with high subsidies, 2-wheeler EVs have gained quick traction, supported by reduced battery costs and rising range capabilities.
+**2-Wheelers:** Affordable and with high subsidies, 2-wheeler EVs have gained quick traction, supported by reduced battery costs and rising range capabilities.
 
-4-Wheelers: Adoption has been slower but is gaining momentum, particularly for fleet use, with doubling sales in 2023. Subsidies, while capped at ₹15 lakh vehicle price, still make a notable difference.
+**4-Wheelers:** Adoption has been slower but is gaining momentum, particularly for fleet use, with doubling sales in 2023. Subsidies, while capped at ₹15 lakh vehicle price, still make a notable difference.
 
 
 <p align="center">
@@ -337,7 +349,7 @@ Government incentives and subsidies have significantly boosted the adoption of b
 </p>
 
 
-3. How does the availability of charging stations infrastructure correlate with the EV sales and penetration rates in the top 5 states?
+#### 3. How does the availability of charging stations infrastructure correlate with the EV sales and penetration rates in the top 5 states?
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Insights/SQ2.png">
@@ -351,7 +363,7 @@ Government incentives and subsidies have significantly boosted the adoption of b
 According to value, clearly it is showing that availability of charging stations infrastructure is _**Positively**_ correlate with the EV sales and penetration rates.
 
 
-4. Who should be the brand ambassador if AtliQ Motors launches their EV/Hybrid vehicles in India and why?
+#### 4. Who should be the brand ambassador if AtliQ Motors launches their EV/Hybrid vehicles in India and why?
 
 
 <p align="center">
@@ -375,9 +387,9 @@ According to value, clearly it is showing that availability of charging stations
    Dhoni’s extensive media coverage and massive social media following provide a powerful platform for generating buzz and increasing visibility for the new EV launch. His involvement can drive significant media attention and social media engagement, creating a ripple effect that elevates the brand’s profile and stimulates interest in its offerings. His ability to capture public attention can be a key asset in establishing the brand’s presence in a competitive market.
 
 
-5. Which state of India is ideal to start the manufacturing unit?
+#### 5. Which state of India is ideal to start the manufacturing unit?
 
-p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/maharashtra-landscape.png" width="50%">
 </p>
 
@@ -397,8 +409,7 @@ Reason:
 
    &rarr; Offers generous incentives for EV manufacturing under its EV policy, including capital subsidies, power tariff incentives, and land allotment assistance.
 
-6. My top 3 recommendations for AtliQ Motors
-
+#### 6. My top 3 recommendations for AtliQ Motors
 
 + **Pioneer in the 2-Wheeler EV Segment**:
 
