@@ -77,17 +77,18 @@ The datasets include sales by state, sales by maker, and a date dimension table 
 
 <p align="center"> Preview </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/date_table_view.png" alt="Date Table View" style="max-width: 70%;">
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_sales_by_maker_table_view.png" alt="EV Sales by Maker Table View" style="max-width: 70%;">
-  </div>
-  <div style="text-align: right;">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_sales_by_state_table_view.png" alt="EV Sales by State Table View" style="max-width: 70%;">
-  </div>
-</div>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/date_table_view.png" alt="Date Table View">
+  </p>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_sales_by_maker_table_view.png" alt="EV Sales by Maker Table View" >
+  </p>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_sales_by_state_table_view.png" alt="EV Sales by State Table View">
+  </p>
 
 <p align="center"> Meta Data details </p>
 
@@ -122,17 +123,18 @@ For building relationship between tables, i have created _**dim_state**_ and _**
 
 <p align="center"> Preview </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_charging_station_table_view.png" alt="Charging Station Table View" style="max-width: 100px;">
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/dim_state_table_view.png" alt="State Table View" style="max-width: 100px;">
-  </div>
-  <div style="text-align: right;">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/category_table_view.png" alt="Category Table View" style="max-width: 100px;">
-  </div>
-</div>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_charging_station_table_view.png" alt="Charging Station Table View">
+  </p>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/dim_state_table_view.png" alt="State Table View">
+  </p>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/category_table_view.png" alt="Category Table View">
+  </p>
+
 
 > [!IMPORTANT]
 > Data is available from Fiscal Year 2022 to 2024. Charging Station data is available as per Feb, 2024. 
