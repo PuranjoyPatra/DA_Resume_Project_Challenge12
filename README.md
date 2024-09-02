@@ -79,11 +79,11 @@ The datasets include sales by state, sales by maker, and a date dimension table 
 
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/date_table_view.png" alt="Date Table View">
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/date_table_view.png" alt="Date Table View" >
   </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_sales_by_maker_table_view.png" alt="EV Sales by Maker Table View" >
+    <img src="https://raw.githubusercontent.com/PuranjoyPatra/DA_Resume_Project_Challenge12/master/Image/ev_sales_by_maker_table_view.png" alt="EV Sales by Maker Table View">
   </p>
 
   <p align="center">
@@ -114,7 +114,7 @@ The datasets include sales by state, sales by maker, and a date dimension table 
 - total_vehicles_sold: The total number of vehicles (including both electric and non-electric) sold in the specified state and category on the given date.
 
 > [!NOTE]
-> These dataset is taken fron [Vahan Sewa](https://vahan.parivahan.gov.in/vahan4dashboard/vahan/view/reportview.xhtml)
+> These dataset is taken from [Vahan Sewa](https://vahan.parivahan.gov.in/vahan4dashboard/vahan/view/reportview.xhtml)
 
 
 Additionally, I have added "EV Charging Station" dataset which is extracted from [Press Information Bureau (PIB)](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2003003). 
